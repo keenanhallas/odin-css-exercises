@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.third {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #fourth {
     background-color: rgb(131, 206, 131);
-    font-size: 24px;
     font-weight: bold;
 }
