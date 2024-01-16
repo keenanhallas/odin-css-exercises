@@ -10,7 +10,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-outchttps://css-tricks.com/snippets /css/complete-guide-grid/#aa-grid-propertiesome.png)
 
 ### Self Check
 
